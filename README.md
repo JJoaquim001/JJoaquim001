@@ -18,7 +18,7 @@
 ## 📈 Objetivos
 - Aprofundar conhecimentos em **Ciência de Dados**  
 - Desenvolver projetos que unam **estatística, programação e IA**  
-- Construir um portfólio sólido para oportunidades na área de tecnologia  
+
 
 ---
 
